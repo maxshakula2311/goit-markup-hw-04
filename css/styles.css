@@ -256,12 +256,10 @@ body {
     background-color: #404bbf;
 }
 .socicon {
-    /* width: 16px;
-    height: 16px; */
-    fill: transparent;
-    stroke: #f4f4fd;
     width: 16px;
     height: 16px;
+    fill: transparent;
+    stroke: #f4f4fd;
 }
 .downsection {
     padding-top: 120px;
@@ -357,10 +355,10 @@ body {
     margin-bottom: 16px;
 }
 .sociconfooter {
-    fill: transparent;
-    stroke: #f4f4fd;
     width: 24px;
     height: 24px;
+    fill: #f4f4fd;
+    stroke: #f4f4fd;
 }
 .sociconlistfooter {
     display: flex;
@@ -368,8 +366,8 @@ body {
     gap: 16px;
 }
 .soclinkfooter {
-    width: 24px;
-    height: 24px;
+    width: 100%;
+    height: 100%;
     background-color: #4d5ae5;
     border-radius: 50%;
     display: flex;
