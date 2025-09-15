@@ -258,12 +258,12 @@ body {
 .socicon {
     /* width: 16px;
     height: 16px; */
-    fill: transparent;
+    fill: #f4f4fd;
     stroke: #f4f4fd;
 }
 svg {
-    width: 16px;
-    height: 16px;
+    width: 16;
+    height: 16;
 }
 .downsection {
     padding-top: 120px;
@@ -365,8 +365,8 @@ svg {
     stroke: #f4f4fd;
 }
 svg {
-    width: 24px;
-    height: 24px;
+    width: 24;
+    height: 24;
 }
 .sociconlistfooter {
     display: flex;
