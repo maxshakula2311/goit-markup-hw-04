@@ -326,6 +326,13 @@ body {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+.footerbox {
+    display: flex;
+    align-items: baseline;
+}
+.footerleft {
+    margin-right: 120px;
+}
 .logo-footer {
     display: inline-block;
     text-decoration: none;
@@ -340,6 +347,20 @@ body {
 }
 .logo-studio-footer {
     color: #f4f4fd;
+}
+.socheader {
+    font-weight: 500;
+    font-style: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
+    margin-bottom: 16px;
+}
+.sociconfooter {
+    fill: transparent;
+    stroke: #f4f4fd;
+    width: 24px;
+    height: 24px;
 }
 .footertext {
     line-height: 1.5;
