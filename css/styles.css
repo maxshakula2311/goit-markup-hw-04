@@ -256,10 +256,14 @@ body {
     background-color: #404bbf;
 }
 .socicon {
-    width: 16px;
-    height: 16px;
+    /* width: 16px;
+    height: 16px; */
     fill: transparent;
     stroke: #f4f4fd;
+}
+svg {
+    width: 16px;
+    height: 16px;
 }
 .downsection {
     padding-top: 120px;
@@ -355,10 +359,14 @@ body {
     margin-bottom: 16px;
 }
 .sociconfooter {
-    width: 24;
-    height: 24;
+    /* width: 24;
+    height: 24; */
     fill: #f4f4fd;
     stroke: #f4f4fd;
+}
+svg {
+    width: 24px;
+    height: 24px;
 }
 .sociconlistfooter {
     display: flex;
